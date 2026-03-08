@@ -1,0 +1,144 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.6.1">
+  <diagram name="Page-1" id="NyWPmVv-pP75kEdy4q3e">
+    <mxGraphModel dx="2950" dy="1348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="F161mS5G-ShqTMPFb94u-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Inability to perform ENT procedures at QEH&lt;/font&gt;" vertex="1">
+          <mxGeometry height="120" width="250" x="1240" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="F161mS5G-ShqTMPFb94u-6" edge="1" parent="1" source="F161mS5G-ShqTMPFb94u-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Garamond;fontStyle=0" target="F161mS5G-ShqTMPFb94u-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F161mS5G-ShqTMPFb94u-4" parent="1" style="triangle;whiteSpace=wrap;html=1;fontFamily=Garamond;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="120" width="130" x="-190" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="F161mS5G-ShqTMPFb94u-9" edge="1" parent="1" source="F161mS5G-ShqTMPFb94u-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Garamond;fontStyle=0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F161mS5G-ShqTMPFb94u-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Garamond;fontStyle=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Environment" vertex="1">
+          <mxGeometry height="30" width="140" x="140" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="F161mS5G-ShqTMPFb94u-46" edge="1" parent="1" source="F161mS5G-ShqTMPFb94u-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F161mS5G-ShqTMPFb94u-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Garamond;fontStyle=0" value="Poor conditions during procedure" vertex="1">
+          <mxGeometry height="40" width="180" x="-10" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="F161mS5G-ShqTMPFb94u-47" edge="1" parent="1" source="F161mS5G-ShqTMPFb94u-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="F161mS5G-ShqTMPFb94u-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F161mS5G-ShqTMPFb94u-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Garamond;fontStyle=0" value="Poor room lighting" vertex="1">
+          <mxGeometry height="30" width="100" x="-50" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="F161mS5G-ShqTMPFb94u-48" edge="1" parent="1" source="F161mS5G-ShqTMPFb94u-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="F161mS5G-ShqTMPFb94u-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F161mS5G-ShqTMPFb94u-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Garamond;fontStyle=0" value="Lack of space" vertex="1">
+          <mxGeometry height="30" width="80" x="-30" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="F161mS5G-ShqTMPFb94u-16" edge="1" parent="1" source="F161mS5G-ShqTMPFb94u-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontFamily=Garamond;fontStyle=0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F161mS5G-ShqTMPFb94u-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Garamond;fontStyle=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Equipment" vertex="1">
+          <mxGeometry height="30" width="120" x="472.5" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="F161mS5G-ShqTMPFb94u-40" edge="1" parent="1" source="F161mS5G-ShqTMPFb94u-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F161mS5G-ShqTMPFb94u-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Garamond;fontStyle=0" value="Shortage of equipment" vertex="1">
+          <mxGeometry height="40" width="140" x="430" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="F161mS5G-ShqTMPFb94u-41" edge="1" parent="1" source="F161mS5G-ShqTMPFb94u-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="F161mS5G-ShqTMPFb94u-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F161mS5G-ShqTMPFb94u-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Garamond;fontStyle=0" value="Lack of specialised equipment" vertex="1">
+          <mxGeometry height="30" width="160" x="310" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="F161mS5G-ShqTMPFb94u-42" edge="1" parent="1" source="F161mS5G-ShqTMPFb94u-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="F161mS5G-ShqTMPFb94u-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F161mS5G-ShqTMPFb94u-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Garamond;fontStyle=0" value="Insufficient budget" vertex="1">
+          <mxGeometry height="30" width="130" x="230" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="F161mS5G-ShqTMPFb94u-43" edge="1" parent="1" source="F161mS5G-ShqTMPFb94u-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F161mS5G-ShqTMPFb94u-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Garamond;fontStyle=0" value="Insufficient disposables" vertex="1">
+          <mxGeometry height="30" width="160" x="310" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="F161mS5G-ShqTMPFb94u-44" edge="1" parent="1" source="F161mS5G-ShqTMPFb94u-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="F161mS5G-ShqTMPFb94u-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F161mS5G-ShqTMPFb94u-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Garamond;fontStyle=0" value="Poor storage conditions" vertex="1">
+          <mxGeometry height="30" width="150" x="210" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="F161mS5G-ShqTMPFb94u-45" edge="1" parent="1" source="F161mS5G-ShqTMPFb94u-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="F161mS5G-ShqTMPFb94u-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F161mS5G-ShqTMPFb94u-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Garamond;fontStyle=0" value="Poor inventory management" vertex="1">
+          <mxGeometry height="30" width="170" x="190" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="F161mS5G-ShqTMPFb94u-26" edge="1" parent="1" source="F161mS5G-ShqTMPFb94u-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Garamond;fontStyle=0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1110" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F161mS5G-ShqTMPFb94u-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Garamond;fontStyle=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="People" vertex="1">
+          <mxGeometry height="30" width="120" x="762.5" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="F161mS5G-ShqTMPFb94u-33" edge="1" parent="1" source="F161mS5G-ShqTMPFb94u-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Garamond;fontStyle=0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F161mS5G-ShqTMPFb94u-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Garamond;fontStyle=0" value="Lack of sufficiently trained staff" vertex="1">
+          <mxGeometry height="40" width="180" x="592.5" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="F161mS5G-ShqTMPFb94u-34" edge="1" parent="1" source="F161mS5G-ShqTMPFb94u-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="F161mS5G-ShqTMPFb94u-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F161mS5G-ShqTMPFb94u-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Garamond;fontStyle=0" value="Inconsistent training process" vertex="1">
+          <mxGeometry height="30" width="150" x="502.5" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="F161mS5G-ShqTMPFb94u-35" edge="1" parent="1" source="F161mS5G-ShqTMPFb94u-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="F161mS5G-ShqTMPFb94u-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F161mS5G-ShqTMPFb94u-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Garamond;fontStyle=0" value="Lack of reference documentation" vertex="1">
+          <mxGeometry height="30" width="172.5" x="480" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="F161mS5G-ShqTMPFb94u-37" edge="1" parent="1" source="F161mS5G-ShqTMPFb94u-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="757" y="440" as="sourcePoint" />
+            <mxPoint x="990" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F161mS5G-ShqTMPFb94u-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Garamond;fontStyle=0" value="Labour shortage" vertex="1">
+          <mxGeometry height="40" width="110" x="627.5" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="F161mS5G-ShqTMPFb94u-38" edge="1" parent="1" source="F161mS5G-ShqTMPFb94u-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="F161mS5G-ShqTMPFb94u-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F161mS5G-ShqTMPFb94u-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Garamond;fontStyle=0" value="Poor rota management" vertex="1">
+          <mxGeometry height="30" width="130.5" x="522" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="F161mS5G-ShqTMPFb94u-39" edge="1" parent="1" source="F161mS5G-ShqTMPFb94u-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="F161mS5G-ShqTMPFb94u-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F161mS5G-ShqTMPFb94u-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Garamond;fontStyle=0" value="Total staff shortage" vertex="1">
+          <mxGeometry height="30" width="110" x="542.5" y="510" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
